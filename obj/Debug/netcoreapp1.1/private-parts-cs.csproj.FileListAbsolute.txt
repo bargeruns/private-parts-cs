@@ -1,0 +1,8 @@
+/Users/sean/private-parts-cs/bin/Debug/netcoreapp1.1/private-parts-cs.deps.json
+/Users/sean/private-parts-cs/bin/Debug/netcoreapp1.1/private-parts-cs.runtimeconfig.json
+/Users/sean/private-parts-cs/bin/Debug/netcoreapp1.1/private-parts-cs.runtimeconfig.dev.json
+/Users/sean/private-parts-cs/bin/Debug/netcoreapp1.1/private-parts-cs.dll
+/Users/sean/private-parts-cs/bin/Debug/netcoreapp1.1/private-parts-cs.pdb
+/Users/sean/private-parts-cs/obj/Debug/netcoreapp1.1/private-parts-cs.AssemblyInfo.cs
+/Users/sean/private-parts-cs/obj/Debug/netcoreapp1.1/private-parts-cs.dll
+/Users/sean/private-parts-cs/obj/Debug/netcoreapp1.1/private-parts-cs.pdb
